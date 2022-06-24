@@ -12,7 +12,7 @@ Question One   What are the 5 Cadence Programming Language Pillars?
 
 4.  Cadence picks up errors in coding and clearly points them out to the developer.   This makes coding less stressful as there is no need to debug a contract once it has been created. 
 
-5.  Cadence uses Resource Oriented Programming, this is a very important feature and increasices the efficiency and spped in creating new contracts.   If we compare items stored on Ethereum they are held in a ledger but using Resource Oriented Programming, those items are stored in the users own account.   So in a way proof of ownership is shown by actually having possession of the item.   This is just one important feature of Resource Oriented Programming. 
+5.  Cadence uses Resource Oriented Programming, this is a very important feature and increasices the efficiency and speed in creating new contracts.   It is specific to Cadence and creates a good experience for the coder as it aims to overcome some of the programming flaws found when building on other chains.  One important feature of Resource Oriented Programming  concerns item ownership.   If we compare items stored on Ethereum they are held in a ledger but using Resource Oriented Programming, those items are stored in the users own account.   So in a way proof of ownership is shown by actually having possession of the item.    
 
 
 Question Two In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful
