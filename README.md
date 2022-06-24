@@ -1,6 +1,6 @@
 # quest-1
 
-# Chapter One Dy Two
+# Chapter One Day Two
 
 Question One   What are the 5 Cadence Programming Language Pillars?
 
