@@ -17,4 +17,6 @@ Question One   What are the 5 Cadence Programming Language Pillars?
 
 Question Two In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful
 
+The 5 pillars are useful as it makes it very easy for developers to use, it ensures safety and efficiency.   The fact that it picks up errors as the contracts are being written is very important.   It ensures that a contract can never be made and then be found to contain errors and bugs, which can create big problems that may be impossible to correct.   It makes creating contracts easier and therefore attractive for developers to use.   It makes it simpler for complete beginners to learn thus encouraging many people to build on Flow using Cadence.
+
 
